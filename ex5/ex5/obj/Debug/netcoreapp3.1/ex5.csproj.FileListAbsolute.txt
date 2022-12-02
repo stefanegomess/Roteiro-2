@@ -1,0 +1,13 @@
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/bin/Debug/netcoreapp3.1/ex5.deps.json
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/bin/Debug/netcoreapp3.1/ex5.runtimeconfig.json
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/bin/Debug/netcoreapp3.1/ex5.runtimeconfig.dev.json
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/bin/Debug/netcoreapp3.1/ex5.dll
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/bin/Debug/netcoreapp3.1/ex5.pdb
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.csproj.AssemblyReference.cache
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.AssemblyInfoInputs.cache
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.AssemblyInfo.cs
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.csproj.CoreCompileInputs.cache
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.dll
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.pdb
+/Users/stefanegomes/Desktop/Roteiro 2/ex5/ex5/obj/Debug/netcoreapp3.1/ex5.genruntimeconfig.cache
